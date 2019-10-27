@@ -1,4 +1,7 @@
-# Apple HomeKit ZemiSmart LED Bulb
+# NOT WORKING YET!!!!!! PLEASE DO NOT DOWNLOAD IT!!!!!!!!!!
+
+
+### Apple HomeKit ZemiSmart LED Bulb
 ### Native  HomeKit firmware for ZemiSmart, AiLight, TuyaSmart Wi-Fi LED Bulb that based on ESP8266 (ESP8285)
 
 ------
