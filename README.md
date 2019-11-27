@@ -1,4 +1,4 @@
-# NOT WORKING YET!!!!!! PLEASE DO NOT DOWNLOAD IT!!!!!!!!!!
+# NOT WORKING PROPERLY YET!!!!!!
 
 
 ### Apple HomeKit ZemiSmart LED Bulb
